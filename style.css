@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+}
+
+#text_area{
+    width: 45%;
+    height: 40px;
+}
+
+.footer{
+    width: 100%;
+    bottom:0;
+    line-height: 3;
+    color: indigo;
+    background-color: goldenrod;
+    position: fixed;
+    text-align: center;
+}
+.footer:hover{ background-color: cyan;}
